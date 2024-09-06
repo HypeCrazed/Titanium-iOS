@@ -1,2 +1,4 @@
-# Titanium-iOS
-Lightweight video downscaler for iOS
+# Titanium iOS
+Video downscaler for iOS
+
+Find the latest Shortcut [here](https://github.com/hypecrazed/titanium-ios/releases)
